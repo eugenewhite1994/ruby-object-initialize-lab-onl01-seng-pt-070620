@@ -1,6 +1,6 @@
 class Person
   def name
-    @name = name
+   puts name
   end
 end
 beyonce = Person.new("Beyonce")
