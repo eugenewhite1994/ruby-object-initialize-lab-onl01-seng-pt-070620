@@ -1,5 +1,8 @@
 class Person
   def name(name)
-  puts "#{name}"
+    @name = name
   end
+  
+  def name
+    @name
 end
