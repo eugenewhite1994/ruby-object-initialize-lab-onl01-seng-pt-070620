@@ -6,3 +6,5 @@ class Person
   def name
     @name
 end
+beyonce = Person.new 
+beyonce.name
